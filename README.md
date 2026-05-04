@@ -47,12 +47,6 @@ Sistema para controle de leitura, avaliações e progresso de livros.
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSegrini&layout=compact)
-
----
-
 ## 📫 Contato
 
 📩 Email: ruan.segrini@hotmail.com  
