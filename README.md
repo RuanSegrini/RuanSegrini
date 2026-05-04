@@ -49,9 +49,7 @@ Sistema para controle de leitura, avaliações e progresso de livros.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanSegrini&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSegrini&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSegrini&layout=compact)
 
 ---
 
