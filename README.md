@@ -12,10 +12,8 @@
 🌱 Spring Boot  
 🗄️ Spring Data JPA  
 🔌 REST APIs  
-🐬 MySQL 
-
-🐘 PostgreSQL 
-
+🐬 MySQL
+🐘 PostgreSQL
 📦 Maven  
 
 ### Conhecimentos de programação
