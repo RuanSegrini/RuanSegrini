@@ -48,17 +48,17 @@ Sistema para controle de leitura, avaliações e progresso de livros.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanSegrini&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanSegrini&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 
-📩 Email: seuemail@exemplo.com  
-💼 LinkedIn: https://linkedin.com/in/seu-perfil  
-🐙 GitHub: https://github.com/SEU_USUARIO
+📩 Email: ruan.segrini@hotmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/ruan-carolino-segrini/
+🐙 GitHub: https://github.com/RuanSegrini
 
 ---
 
