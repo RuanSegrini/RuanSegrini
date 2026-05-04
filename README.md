@@ -12,7 +12,8 @@
 🌱 Spring Boot  
 🗄️ Spring Data JPA  
 🔌 REST APIs  
-🐬 MySQL  
+🐬 MySQL 
+🐘 PostgreSQL 
 📦 Maven  
 
 ### Conhecimentos de programação
@@ -57,7 +58,9 @@ Sistema para controle de leitura, avaliações e progresso de livros.
 ## 📫 Contato
 
 📩 Email: ruan.segrini@hotmail.com  
+
 💼 LinkedIn: https://www.linkedin.com/in/ruan-carolino-segrini/
+
 🐙 GitHub: https://github.com/RuanSegrini
 
 ---
